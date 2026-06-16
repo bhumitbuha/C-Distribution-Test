@@ -1,0 +1,8 @@
+{
+  "name": "distribution-tester",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sfml",
+    "tgui"
+  ]
+}

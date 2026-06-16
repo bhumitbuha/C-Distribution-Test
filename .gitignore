@@ -1,0 +1,51 @@
+# Build directories
+cmake-build-*/
+build/
+out/
+bin/
+obj/
+
+# CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# vcpkg
+vcpkg_installed/
+vcpkg/
+
+# Vendored third-party libraries (install via vcpkg instead)
+lib/
+include/SFML/
+include/TGUI/
+
+# IDE / editor
+.idea/
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.exp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
